@@ -10,7 +10,7 @@ header-img: "img/coding-blog.jpg"
 
 <p>I have started this blog in hope of sharing my experience and thoughts about becoming a web developer. I want to help people who will be passing the same coding journey. And hopefully, there will be things that other people could learn from my mistake. </p>
 
-<p>I have been secretly wanting to start blogging for the past few months but hadn't really had a gut to write or publish a blog. I would be listing tons of reasons for myself why I should not do it. One of my main concern was that English is not my first language so I felt like I can't write.  But then, after researching and talking with people I found out that I can be a better writer and build my confidence by blogging. So I got to start somewhere....</p>
+<p>I have been secretly wanting to start blogging for the past few months but hadn't really had a gut to write or publish a blog. I would be listing tons of reasons for myself why I should not do it. One of my main concern was that English is not my first language so I felt like I can't write.  But then, I realized that this could be a good opportunity for me to be a better writer and build my confidence by blogging. So I got to start somewhere....</p>
 
 <p>This blog will feature lessons learned, reflections, and ideas about coding. I hope to encourage people from different background who have passion for coding to pursue their dreams. I never thought that I could be web developer or I could really code when I started learning but with the help of family encouragement and community I have overcome the challenge and now I am pursueing my dream.</p>
 
