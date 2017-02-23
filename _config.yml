@@ -3,8 +3,8 @@ title: Meheret Egzerab
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 copyright_name: Your/Project/Corporate Name
-description: "A blog post about my coding journey in hopes of sharing my ideas and thoughts."
-baseurl: "/startbootstrap-clean-blog-jekyll"
+description: "A blog post about my coding journey in hopes of sharing my thought and idea"
+baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: SBootstrap
 github_username:  davidtmiller
@@ -15,6 +15,7 @@ email_username:  your-email@yourdomain.com
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 # google_tracking_id:
 
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -22,4 +23,5 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag];
